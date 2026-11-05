@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -23,3 +23,17 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Character Map
+
+| Character | Objective | Responsibility | Repertoire | Risiko Komunikasi |
+|---|---|---|---|---|
+| Mahasiswa Skripsi | Mendapatkan persetujuan metodologi dan revisi script wawancara | Mengirimkan draf tepat waktu dan proaktif bimbingan | Formal, akademis, terstruktur | Terlalu pasif sehingga miskomunikasi ekspektasi dengan dosen |
+| Senior / Mantan Ketua PSM-ITB | Memberikan masukan strategis tanpa mendominasi pengurus baru | Menjaga *legacy* dan membiarkan regenerasi berjalan mandiri | Suportif, memotivasi, semi-formal | Terkesan menggurui atau *micromanaging* pengurus saat ini |
+| Junior Data Analyst | Mempresentasikan dashboard BI atau hasil evaluasi data | Memastikan data akurat dan insight mudah dipahami oleh pihak manajemen | Profesional, analitis, objektif, ringkas | Menggunakan terlalu banyak jargon teknis (seperti SQL/Python) yang membingungkan audiens |
+| Lawan Main Board Game | Menikmati kompetisi sehat dalam permainan dua pemain di cafe | Mematuhi aturan permainan dan menjaga suasana santai | Kasual, ekspresif, penuh canda | Terbawa suasana terlalu kompetitif hingga merusak *mood* bermain |
+| Anak / Anggota Keluarga | Menjaga kedekatan dan menghormati keluarga yang lebih tua | Mendengarkan dan membantu keperluan keluarga (seperti reservasi acara) | Hangat, santai, penuh perhatian | Perbedaan pandangan antargenerasi memicu kesalahpahaman |
+
+## Perubahan Language
+
+Contoh perubahan *language* sangat terlihat ketika saya bertransisi dari peran Junior Data Analyst ke Lawan Main Board Game. Saat menyajikan data, saya menggunakan bahasa yang terukur dan berorientasi pada solusi, seperti "Berdasarkan tren dari evaluasi *revenue*, terdapat penurunan pada metrik retensi bulan ini." Namun, ketika *character* berubah menjadi lawan main di *board game cafe*, *language* saya langsung menjadi spontan, reaktif, dan emosional, seperti "Wah, *resource* aku kurang satu nih buat menang, curang banget kartunya!"
